@@ -22,7 +22,7 @@
 - Afin de faire la partie obligatoire, vous avez le droit d'utiliser les fonctions suivantes :
 
 - [`write`](http://manpagesfr.free.fr/man/man2/write.2.html)
-- [`ft_printf] et tout équivalent que VOUS avez codé
+- [`ft_printf`] et tout équivalent que VOUS avez codé
 - [`signal`](http://manpagesfr.free.fr/man/man2/signal.2.html)
 - [`sigemptyset`](http://manpagesfr.free.fr/man/man3/sigsetops.3.html)
 - [`sigaddset`](http://manpagesfr.free.fr/man/man3/sigsetops.3.html)
